@@ -1,0 +1,8 @@
+# Ignore raw dataset folders and files
+train/
+test/
+top50.csv
+fer2013.csv
+
+# Ignore Python's temporary cache files
+__pycache__/
